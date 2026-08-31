@@ -1,11 +1,14 @@
 # Python for GenAI
 
-Python fundamentals, coding exercises, and projects for my journey toward GenAI and AI Application Development.
+Python fundamentals, coding exercises, and projects for my journey toward becoming a GenAI Developer / AI Application Developer.
 
 ## Completed Topics
 
 * Loops
 * Functions
+* Intermediate Python Lists
+
+---
 
 ## Loop Exercises Covered
 
@@ -17,6 +20,8 @@ Python fundamentals, coding exercises, and projects for my journey toward GenAI 
 * Finding max/min values
 * String transformations
 * List transformations
+
+---
 
 ## Function Exercises Covered
 
@@ -51,6 +56,44 @@ Python fundamentals, coding exercises, and projects for my journey toward GenAI 
 * Get messages starting with AI
 * Get messages ending with exclamation marks
 
+---
+
+## Intermediate Python Lists Covered
+
+### Practical List Processing for GenAI (15 Exercises)
+
+* Removing duplicates while preserving order
+* Combining multiple prompt sources
+* Extracting user messages from structured chat data
+* Cleaning API responses
+* Cleaning document chunks
+* Flattening nested document chunks
+* Finding the longest valid document chunk
+* Finding the shortest valid document chunk
+* Combining and cleaning multiple document sources
+* Preparing document chunks for RAG
+* Extracting successful API documents
+* Extracting and cleaning nested API document chunks
+* Selecting useful document chunks based on quality rules
+* Preparing high-quality chunks for a RAG pipeline
+* Building a final RAG context with cleaned, longest, and shortest chunks
+
+### Concepts Practiced
+
+* Combining lists
+* Removing duplicates while preserving order
+* Extracting useful data from lists
+* Removing unwanted items
+* Working with nested lists
+* Flattening nested lists
+* Cleaning API-like responses
+* Processing document chunks
+* Filtering successful API responses
+* Finding longest and shortest values
+* Preparing cleaned data for RAG applications
+
+---
+
 ## Upcoming Topics
 
 * Dictionaries
@@ -64,4 +107,4 @@ Python fundamentals, coding exercises, and projects for my journey toward GenAI 
 
 ## Goal
 
-Build strong Python fundamentals and practical development skills for becoming a GenAI Developer.
+Build strong Python fundamentals and practical development skills for becoming a GenAI Developer / AI Application Developer, with a focus on APIs, LLM applications, RAG pipelines, and real-world AI applications.
