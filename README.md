@@ -7,6 +7,7 @@ Python fundamentals, coding exercises, and projects for my journey toward becomi
 * Loops
 * Functions
 * Intermediate Python Lists
+* Python Dictionaries
 
 ---
 
@@ -94,11 +95,56 @@ Python fundamentals, coding exercises, and projects for my journey toward becomi
 
 ---
 
+## Python Dictionaries Covered
+
+### Practical Dictionary Processing for GenAI (15 Exercises)
+
+* Creating and accessing dictionaries
+* Updating dictionary values
+* Adding new key-value pairs
+* Removing unwanted dictionary data
+* Checking whether a key exists
+* Looping through dictionaries
+* Accessing nested dictionaries
+* Processing lists of dictionaries
+* Extracting user messages from chat data
+* Extracting data from API responses
+* Processing LLM responses
+* Working with RAG document metadata
+* Filtering RAG document chunks
+* Processing JSON-like API responses
+* Filtering RAG search results using similarity scores
+
+### Concepts Practiced
+
+* Key-value pairs
+* Dictionary access
+* Dictionary updates
+* Adding and removing data
+* Checking dictionary keys
+* `.items()`
+* `.get()`
+* `.update()`
+* `.pop()`
+* Nested dictionaries
+* Lists of dictionaries
+* Filtering structured data
+* Processing API-like responses
+* Processing LLM responses
+* Working with document metadata
+* Preparing and filtering RAG search results
+
+---
+
 ## Upcoming Topics
 
-* Dictionaries
+* Tuples
 * Sets
+* Exception Handling
 * File Handling
+* JSON
+* Modules and Imports
+* Virtual Environments and pip
 * APIs
 * FastAPI
 * LLM Applications
