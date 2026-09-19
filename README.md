@@ -10,6 +10,7 @@ Python fundamentals, practical coding exercises, and projects for my journey tow
 * Python Dictionaries
 * Python Tuples
 * Python Sets
+* Python Exception Handling
 
 ---
 
@@ -225,9 +226,59 @@ Python fundamentals, practical coding exercises, and projects for my journey tow
 
 ---
 
+## Python Exception Handling
+
+### Practical Exception Handling for GenAI — 20 Exercises
+
+* Handling invalid user input
+* Handling `ValueError`
+* Handling missing dictionary keys with `KeyError`
+* Handling multiple exception types
+* Using `else` with exception handling
+* Using `finally`
+* Handling `TypeError`
+* Handling errors in API-like responses
+* Understanding exception scope
+* Using `raise` for validation
+* Using `as error` to access exception messages
+* Handling `FileNotFoundError`
+* Handling `PermissionError`
+* Understanding specific vs generic exceptions
+* Handling `AttributeError` in LLM-style responses
+* Handling API connection errors
+* Handling API timeout errors
+* Creating custom exceptions
+* Handling invalid JSON with `JSONDecodeError`
+* Validating AI API responses
+
+### Concepts Practiced
+
+* `try`
+* `except`
+* Multiple `except` blocks
+* `else`
+* `finally`
+* `raise`
+* `as error`
+* `ValueError`
+* `KeyError`
+* `TypeError`
+* `ZeroDivisionError`
+* `FileNotFoundError`
+* `PermissionError`
+* `ConnectionError`
+* `TimeoutError`
+* `AttributeError`
+* Custom exceptions
+* `JSONDecodeError`
+* Safe API/LLM response handling
+* Input validation
+* Error handling in GenAI applications
+
+---
+
 ## Upcoming Topics
 
-* Exception Handling
 * File Handling
 * JSON
 * Modules and Imports
