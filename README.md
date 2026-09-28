@@ -11,6 +11,10 @@ Python fundamentals, practical coding exercises, and projects for my journey tow
 * Python Tuples
 * Python Sets
 * Python Exception Handling
+* Python File Handling
+* JSON
+* Modules and Imports
+* Virtual Environments and pip
 
 ---
 
@@ -277,16 +281,106 @@ Python fundamentals, practical coding exercises, and projects for my journey tow
 
 ---
 
+## Python File Handling
+
+### Practical File Handling for GenAI — 20 Exercises
+
+* Opening and reading text files
+* Reading files with `.read()`
+* Reading files line by line with `.readline()`
+* Reading multiple lines with `.readlines()`
+* Understanding file modes
+* Writing AI responses to files
+* Appending AI logs
+* Saving and reading generated AI responses
+* Cleaning documents by removing empty lines
+* Using `with open()` for safe file handling
+* Handling missing files with `FileNotFoundError`
+* Handling file permission errors with `PermissionError`
+* Safely processing user-uploaded documents
+* Cleaning raw RAG documents
+* Filtering `IGNORE:` and `TODO:` lines
+* Creating reusable document-cleaning functions
+* Handling missing documents inside functions
+* Preparing processed documents
+* Combining multiple documents
+* Building a final RAG-style document preprocessing workflow
+
+### Concepts Practiced
+
+* `open()`
+* File modes: `"r"`, `"w"`, `"a"`
+* `.read()`
+* `.readline()`
+* `.readlines()`
+* `.write()`
+* `with open()`
+* `\n` and `\n\n`
+* `.strip()`
+* `.startswith()`
+* File path handling
+* `FileNotFoundError`
+* `PermissionError`
+* Reading and writing text
+* Cleaning document content
+* Processing multiple documents
+* Building reusable file-processing functions
+* Preparing documents for RAG pipelines
+
+---
+
+## JSON
+
+### Concepts Practiced
+
+* Reading JSON data
+* Writing JSON data
+* Converting JSON to Python objects
+* Converting Python objects to JSON
+* Working with JSON-like API responses
+* Processing structured AI data
+* Handling invalid JSON
+
+---
+
+## Modules and Imports
+
+### Concepts Practiced
+
+* Creating Python modules
+* Importing modules
+* Using functions from other files
+* Organizing Python code
+* Reusing code across projects
+* Understanding basic project structure
+
+---
+
+## Virtual Environments and pip
+
+### Concepts Practiced
+
+* Creating virtual environments
+* Activating virtual environments
+* Installing packages with `pip`
+* Managing project dependencies
+* Understanding isolated Python environments
+* Preparing projects for real-world development
+
+---
+
 ## Upcoming Topics
 
-* File Handling
-* JSON
-* Modules and Imports
-* Virtual Environments and pip
-* APIs
+* APIs and HTTP Requests
+* `requests` / `httpx`
+* API Authentication
+* API Error Handling
+* Pydantic and Data Validation
 * FastAPI
 * LLM Applications
 * RAG
+* Embeddings
+* Vector Databases
 * AI Agents
 
 ---
@@ -300,5 +394,7 @@ The focus is on practical development with:
 * APIs
 * LLM applications
 * RAG pipelines
+* Embeddings
+* Vector databases
 * AI agents
 * Real-world AI applications
