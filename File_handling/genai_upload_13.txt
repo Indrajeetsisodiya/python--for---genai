@@ -1,0 +1,7 @@
+Python is useful for building AI applications.
+
+RAG allows AI systems to use external documents.
+   
+Embeddings represent text as numerical vectors.
+
+Large Language Models can generate text from prompts.

@@ -1,0 +1,2 @@
+"Explain what RAG is in simple terms."
+hey there 

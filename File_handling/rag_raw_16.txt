@@ -1,0 +1,11 @@
+Python can be used to build AI applications.
+
+RAG allows applications to retrieve external information.
+
+   
+Embeddings represent text as numerical vectors.
+
+   
+Vector databases can store embeddings.
+
+This document will be processed before entering a RAG pipeline.

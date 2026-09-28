@@ -1,0 +1,11 @@
+Python is useful for AI development.
+
+RAG retrieves relevant information from documents.
+
+   
+Embeddings represent text as numerical vectors.
+
+Vector databases store embeddings for similarity search.
+
+   
+This document will be prepared for a future RAG pipeline.

@@ -1,0 +1,2 @@
+User asked: What is RAG? 
+AI responded: RAG retrieves relevant information before generating an answer.

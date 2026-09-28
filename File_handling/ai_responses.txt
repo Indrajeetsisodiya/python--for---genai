@@ -1,0 +1,2 @@
+Response 1: RAG helps an AI use external information.
+Response 2: Embeddings help represent text as numerical vectors.

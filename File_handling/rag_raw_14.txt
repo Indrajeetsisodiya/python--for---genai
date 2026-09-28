@@ -1,0 +1,10 @@
+RAG allows AI systems to use external documents.
+
+Documents should be cleaned before processing.
+
+   
+Embeddings represent text as numerical vectors.
+
+This line contains useful information.
+
+   

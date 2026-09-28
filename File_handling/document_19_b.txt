@@ -1,0 +1,6 @@
+Embeddings represent text as numerical vectors.
+
+Vector databases can store embeddings.
+
+   
+RAG can retrieve relevant information for an AI application.

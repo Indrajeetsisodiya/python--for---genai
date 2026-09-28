@@ -1,0 +1,7 @@
+Vector databases can store embeddings.
+
+RAG retrieves relevant information.
+
+TODO: Update this section later.
+
+Large Language Models can generate text.

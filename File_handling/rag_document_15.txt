@@ -1,0 +1,7 @@
+Python is useful for AI development.
+IGNORE: This line contains outdated information.
+RAG allows AI systems to use external documents.
+TODO: Update this section later.
+Embeddings represent text as numerical vectors.
+IGNORE: This information is no longer relevant.
+Vector databases can store embeddings.

@@ -1,0 +1,5 @@
+Python is a popular programming language used for AI and web development.
+FastAPI is a Python framework used to build fast, modern APIs.
+RAG combines document retrieval with an LLM to generate grounded answers.
+Git is a version control system used to track changes in code.
+SQL is used to query and manage data in relational databases.

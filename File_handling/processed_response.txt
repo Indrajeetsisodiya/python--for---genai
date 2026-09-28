@@ -1,0 +1,1 @@
+Python file handling is useful for processing documents before sending their content to an LLM.

@@ -1,0 +1,5 @@
+AI applications can process documents.
+
+RAG retrieves relevant information.
+
+Embeddings represent text as vectors.
